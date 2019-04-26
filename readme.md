@@ -6,6 +6,7 @@
 
 This web application is made with [Laravel](https://laravel.com) framework. This is basically a content sharing site. In our case this is a **Story Sahring Site**. The basic features are :
 
+*Please Check the README.txt file for Admin/User Login credentials*
 
 **For all**
 
