@@ -1,0 +1,109 @@
+.tooltipp {
+  position: relative;
+}
+
+.tooltipp .tooltiptextt {
+  visibility: hidden;
+  width: 100%;
+  background-color: rgba(89, 89, 89,0.6);
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+  left: 0;
+  bottom: 110%;
+}
+
+.tooltipp:hover .tooltiptextt {
+  visibility: visible;
+}
+
+
+
+
+
+
+#confetti{
+  height: 100%;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+  z-index: -1;
+}
+
+
+.custom_button{
+  background-color: #fff;
+  border: 0px;
+  font-size: 1.4em;
+}
+
+.custom_button:hover{
+  color: #FD6233;
+}
+
+
+
+.custom_search_button:hover{
+background-color: #FD6233;
+}
+
+
+
+
+
+.custom_center{
+
+  display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+
+.wrapper {
+  display: flex;
+  align-items: center;
+  flex-direction: column; 
+  justify-content: center;
+  width: 100%;
+  min-height: 100%;
+  padding: 20px;
+}
+
+.custom_resize{
+  height: 10%;
+}
+
+
+.max-lines {
+  display: block; /* or inline-block */
+  text-overflow: ellipsis;
+  word-wrap: break-word;
+  overflow: hidden;
+  max-height: 8em;
+  line-height: 1.8em;
+  width: 150px;
+}
+
+.story-height{
+	height: 30em;
+	display: block; /* or inline-block */
+ 	text-overflow: ellipsis;
+ 	word-wrap: break-word;
+ 	overflow: scroll;
+}
+
+.story-height-landing{
+
+  display: block; /* or inline-block */
+  text-overflow: ellipsis;
+  word-wrap: break-word;
+  overflow: hidden;
+  max-height: 8.5em;
+  line-height: 1.8em;
+
+}
