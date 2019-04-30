@@ -51,4 +51,4 @@ Well, about my educational background, I studies Computer Science & Software Eng
 - [Facebook](https://facebook.com/hmnredoy)
 - [Twitter](https://twitter.com/hmnredoy)
 - [LinkedIn](https://www.linkedin.com/in/hmnredoy/)
-- [Gmail](hmnredoy@gmail.com)
+- Mail me at hmnredoy@gmail.com
